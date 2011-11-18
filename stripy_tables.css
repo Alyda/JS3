@@ -1,0 +1,30 @@
+body
+{
+	font-family: sans-serif;
+}
+
+tr.alt
+{
+	background-color: teal;
+}
+
+td
+{
+	padding: 6px 15px;
+}
+
+
+th
+{
+  	border: 1px solid gray;
+	background-color: black;
+	padding: 8px 15px;
+	color: white
+	
+}
+
+table
+{
+	border-collapse: collapse;
+}
+

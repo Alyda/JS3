@@ -1,0 +1,1 @@
+Chapter 3 in JavaScript: Document Access. These files locate elements in HTML and give a class to every other row in a table--this way you can give CSS styles to every other row without manually changing the class in the HTML document.
